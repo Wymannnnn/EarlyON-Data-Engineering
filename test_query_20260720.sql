@@ -1,0 +1,6 @@
+SELECT TOP (1000) [ID]
+      ,[Province]
+      ,[ProvinceCode]
+      ,[InsertBy]
+      ,[InsertDateTime]
+  FROM [EarlyON].[dbo].[Province]
